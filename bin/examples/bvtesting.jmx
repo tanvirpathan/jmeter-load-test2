@@ -30,7 +30,7 @@
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">profiledata-internal-api.qa.us-east-1.nexus.bazaarvoice.com</stringProp>
+          <stringProp name="HTTPSampler.domain">profiledata-internal-api.prod.us-east-1.nexus.bazaarvoice.com</stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.connect_timeout"></stringProp>
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
@@ -72,7 +72,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/profiledata/magpie_bvid_9cd5d58e-55dd-4ce7-a221-7ff52269ae3d</stringProp>
+          <stringProp name="HTTPSampler.path">/profiledata/magpie_bvid_14d65050-d1b6-431a-aa9e-3de029c1d2d0</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
