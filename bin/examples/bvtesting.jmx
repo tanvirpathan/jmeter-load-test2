@@ -72,7 +72,7 @@
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/profiledata/magpie_bvid_${bvid}</stringProp>
+          <stringProp name="HTTPSampler.path">/profiledata/magpie_bvid_9cd5d58e-55dd-4ce7-a221-7ff52269ae3d</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
