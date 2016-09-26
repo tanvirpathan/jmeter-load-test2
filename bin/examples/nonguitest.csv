@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="811" it="0" lt="539" ts="1473863734605" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="240090" ng="1" na="1">
+  <httpSample t="539" it="0" lt="539" ts="1473863734605" s="true" lb="http://idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="463" ng="1" na="1"/>
+  <httpSample t="271" it="0" lt="87" ts="1473863735145" s="true" lb="http://www.idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="239627" ng="1" na="1"/>
+</httpSample>
+
+</testResults>
