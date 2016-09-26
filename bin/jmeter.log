@@ -1,0 +1,87 @@
+2016/09/25 18:58:43 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Loading user properties from: /gitwork/apache-jmeter-3.0/bin/user.properties 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Loading system properties from: /gitwork/apache-jmeter-3.0/bin/system.properties 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.output_format=xml 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Setting JMeter property: users=2 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Setting JMeter property: ramp=2 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Setting JMeter property: loopCount=2 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Version 3.0 r1743807 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: java.version=1.8.0_102 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: os.arch=x86_64 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: os.version=10.11.6 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Max memory     =3817865216 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Available Processors =8 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: JMeterHome=/gitwork/apache-jmeter-3.0 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: user.dir  =/gitwork/apache-jmeter-3.0/bin 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: PWD       =/gitwork/apache-jmeter-3.0/bin 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: IP: 10.11.10.106 Name: staylor-win8.austin.bazaarvoice.com FullName: staylor-win8.austin.bazaarvoice.com 
+2016/09/25 18:58:43 INFO  - jmeter.services.FileServer: Default base='/gitwork/apache-jmeter-3.0/bin' 
+2016/09/25 18:58:43 INFO  - jmeter.services.FileServer: Set new base='/gitwork/apache-jmeter-3.0/bin/examples' 
+2016/09/25 18:58:43 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2016/09/25 18:58:43 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2016/09/25 18:58:43 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.9 
+2016/09/25 18:58:43 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2016/09/25 18:58:43 INFO  - jmeter.save.SaveService: Loading file: /gitwork/apache-jmeter-3.0/bin/examples/idownloadblogTest.jmx 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Creating summariser <summary> 
+2016/09/25 18:58:43 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/09/25 18:58:43 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/09/25 18:58:43 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/09/25 18:58:43 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/09/25 18:58:43 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/09/25 18:58:43 INFO  - jmeter.JMeter: Running test (1474847923599) 
+2016/09/25 18:58:43 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/09/25 18:58:43 INFO  - jmeter.engine.StandardJMeterEngine: Starting 10 threads for group Thread Group. 
+2016/09/25 18:58:43 INFO  - jmeter.engine.StandardJMeterEngine: Thread will start next loop on error 
+2016/09/25 18:58:43 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 10 ramp-up 10 perThread 1000.0 delayedStart=true 
+2016/09/25 18:58:43 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/09/25 18:58:43 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/09/25 18:58:43 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = staylor-win8.austin.bazaarvoice.com 
+2016/09/25 18:58:43 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2016/09/25 18:58:43 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2016/09/25 18:58:43 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2016/09/25 18:58:43 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2016/09/25 18:58:43 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2016/09/25 18:58:44 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2016/09/25 18:58:45 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2016/09/25 18:58:46 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2016/09/25 18:58:47 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2016/09/25 18:58:48 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-6 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-3 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-2 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-4 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2016/09/25 18:58:49 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-7 
+2016/09/25 18:58:50 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-5 
+2016/09/25 18:58:50 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2016/09/25 18:58:50 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-8 
+2016/09/25 18:58:51 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-6 
+2016/09/25 18:58:51 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-6 
+2016/09/25 18:58:51 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-9 
+2016/09/25 18:58:52 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-10 
+2016/09/25 18:58:52 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-7 
+2016/09/25 18:58:52 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-7 
+2016/09/25 18:58:53 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-8 
+2016/09/25 18:58:53 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-8 
+2016/09/25 18:58:54 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-9 
+2016/09/25 18:58:54 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-9 
+2016/09/25 18:58:55 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-10 
+2016/09/25 18:58:55 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-10 
+2016/09/25 18:58:55 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/09/25 18:58:55 INFO  - jmeter.reporters.Summariser: summary =     90 in 00:00:12 =    7.6/s Avg:   375 Min:   152 Max:  1337 Err:     0 (0.00%) 
