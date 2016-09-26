@@ -52,13 +52,13 @@
               </elementProp>
             </collectionProp>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">profiledata-internal-api.qa.us-east-1.nexus.bazaarvoice.com</stringProp>
+          <stringProp name="HTTPSampler.domain">network-stg.bazaarvoice.com</stringProp>
           <stringProp name="HTTPSampler.port"></stringProp>
           <stringProp name="HTTPSampler.connect_timeout"></stringProp>
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-          <stringProp name="HTTPSampler.path">/profiledata/magpie_bvid_9cd5d58e-55dd-4ce7-a221-7ff52269ae3d</stringProp>
+          <stringProp name="HTTPSampler.path">/st.gif?cl=PageView&amp;type=Product&amp;tz=300&amp;magpieJsVersion=2.6.2&amp;source=prr&amp;environment=stg&amp;client=Cabelas&amp;dc=8815&amp;BVBRANDID=null&amp;BVBRANDSID=null&amp;categoryId=540487980&amp;rootCategoryId=540487980&amp;productId=023395&amp;bvProduct=AskAndAnswer&amp;brand=COLEMAN&amp;numQuestions=9&amp;numAnswers=12&amp;host=www.cabelas.com&amp;canurl=http://www.cabelas.com/product/COLEMAN-ATV/1748399.uts&amp;res=1440x900&amp;lang=en-</stringProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
