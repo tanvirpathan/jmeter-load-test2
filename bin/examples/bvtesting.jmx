@@ -52,7 +52,7 @@
               </elementProp>
               <elementProp name="recommendations_client" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                <stringProp name="Argument.value">${client}</stringProp>
+                <stringProp name="Argument.value">qvc</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
                 <boolProp name="HTTPArgument.use_equals">true</boolProp>
                 <stringProp name="Argument.name">recommendations_client</stringProp>
